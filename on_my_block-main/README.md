@@ -1,6 +1,6 @@
 # **ON MY BLOCK**
 
-[ On My Block App](www.linkedin.com/biancaclairejoseph) | [Trello](https://trello.com/b/6YQIfgNk/on-my-block) | [Presentation](https://docs.google.com/presentation/d/1dZ0a4pu5cIhSksLojSuZa5WLPNdwoxLcTuiJQrp3DOY/edit?usp=sharing)
+[ On My Block App](www.linkedin.com/biancaclairejoseph) | [Trello](https://trello.com/b/6YQIfgNk/on-my-block) | [Presentation](https://docs.google.com/presentation/d/1iCjXAgDoZKMu_ZIoE8wuXgwZMytNYanBQiOXQeaJnFs/edit#slide=id.p)
 
 #### Due Date: 1/14/2022 10:00EST
 
@@ -8,7 +8,7 @@
 
 ### **_Created By:_**
 
-#### Bianca Joseph | [GitHub](https://github.com/biancajoseph101) | [LinkedIn](https://www.linkedin.com/in/biancaclairejoseph)
+#### Nathan Byepu | [GitHub](https://github.com/Ikhnaton23) | [LinkedIn](https://www.linkedin.com/in/iqb-consulting-09944a24b/)
 
 #### Nashid Alam | [GitHub](https://github.com/Nashid-Alam) | [LinkedIn](https://www.linkedin.com/in/nashid-alam-02602147)
 
