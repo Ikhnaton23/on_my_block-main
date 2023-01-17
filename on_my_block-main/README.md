@@ -1,6 +1,6 @@
 # **ON MY BLOCK**
 
-[ On My Block App](www.linkedin.com/biancaclairejoseph) | [Trello](https://trello.com/b/6YQIfgNk/on-my-block) | [Presentation](https://docs.google.com/presentation/d/1iCjXAgDoZKMu_ZIoE8wuXgwZMytNYanBQiOXQeaJnFs/edit#slide=id.p)
+[ On My Block App](www.linkedin.com/biancaclairejoseph) |  | [Presentation](https://docs.google.com/presentation/d/1iCjXAgDoZKMu_ZIoE8wuXgwZMytNYanBQiOXQeaJnFs/edit#slide=id.p)
 
 #### Due Date: 1/14/2022 10:00EST
 
